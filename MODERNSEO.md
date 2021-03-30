@@ -1,30 +1,42 @@
 <div align="center">
+  <h1>Modern Search Engine Optimization (SEO)</h1>
 
-<img src="https://img.icons8.com/cotton/64/000000/seo-text.png"/>
+  <br />
 
-<br />
+  <img src="./traditional-seo.jpg"/>
 
-<h1>Modern Search Engine Optimization (SEO)</h1>
+  <br />
 
-<br />
-
-<p>Course on frontendmasters.com by Mike North working at LinkedIn, CEO of Mike.works</p>
-
+  <p>Course on frontendmasters.com by Mike North working at LinkedIn, CEO of Mike.works</p>
 </div>
 
 ## Course:
 
 ### Strategies
 
+#### Physical Location
+
+<div align="center">
+  <img src="./physical.location.jpg"/>
+</div>
+
 Traditional paths to SEO, building sites with unique and target content that's easy to spiders to index. Tips & Process for brick-and-mortar businesses.
 
 ### PageRank
+
+<div align="center">
+  <img src="./physical.location.jpg"/>
+</div>
 
 first algorithm used by Google for search results. PageRank works by counting the number and quality of links to a page to determine a rough estimate of how importance of a site compared to other sites of a similar nature or content.
 
 > Removing Bad Links: tools & tips to eliminate these links and inform Google that you disavow them.
 
 ### Long Tail Keywords
+
+<div align="center">
+  <img src="./physical.location.jpg"/>
+</div>
 
 3 or 4 keywords phrases that are very specific to a site's content or business...
 

@@ -32,6 +32,12 @@ In order to easily handle this routine on every project, we gather all the right
 
 #### Facebook og
 
+<div align="center">
+
+<img src="./fb-og-image.jpg"/>
+
+</div>
+
 . **og:image :** its a great thing to have an image representing the visual of the brand, if not it could be better to not publish a bad visual for the brand
 
 > notice: its really great to think to have an image well
