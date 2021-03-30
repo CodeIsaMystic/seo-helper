@@ -33,20 +33,19 @@ In order to easily handle this routine on every project, we gather all the right
 #### Facebook og
 
 <div align="center">
-
-<img src="./img/fb-og-image.jpg"/>
-
+<img src="./img/fb-og-title.jpg"/>
 </div>
 
 . **og:image :** its a great thing to have an image representing the visual of the brand, if not it could be better to not publish a bad visual for the brand
 
-> notice: its really great to think to have an image well
-> dimensioned
+<div align="center">
+<img src="./img/fb-og-image.jpg"/>
+</div>
+
+> notice: its a great thing to have an image well dimensioned
 
 <div align="center">
-
 <img src="./img/fb-og-image-example.jpg"/>
-
 </div>
 
 . **og:url :** the canonical url, no matter from where its redirected , it will be this canonical url
