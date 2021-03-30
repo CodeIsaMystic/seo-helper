@@ -37,6 +37,12 @@ In order to easily handle this routine on every project, we gather all the right
 > notice: its really great to think to have an image well
 > dimensioned
 
+<div align="center">
+
+<img src="./fb-og-image-example.jpg"/>
+
+</div>
+
 . **og:url :** the canonical url, no matter from where its redirected , it will be this canonical url
 
 > -> clear !== between the fetched and canonical urls
