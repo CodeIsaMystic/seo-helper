@@ -51,7 +51,7 @@ In order to easily handle this routine on every project, we gather all the right
 . **og:url :** the canonical url, no matter from where its redirected , it will be this canonical url
 
 <div align="center">
-<img src="./img/og-image-url.jpg"/>
+<img src="./img/og-urls.jpg"/>
 </div>
 
 > -> clear !== between the fetched and canonical urls
