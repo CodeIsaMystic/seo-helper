@@ -3,7 +3,7 @@
 
   <br />
 
-  <img src="./traditional-seo.jpg"/>
+  <img src="./img/traditional-seo.jpg"/>
 
   <br />
 
@@ -17,7 +17,7 @@
 #### Physical Location
 
 <div align="center">
-  <img src="./physical.location.jpg"/>
+  <img src="./img/physical-location.jpg"/>
 </div>
 
 Traditional paths to SEO, building sites with unique and target content that's easy to spiders to index. Tips & Process for brick-and-mortar businesses.
@@ -25,7 +25,7 @@ Traditional paths to SEO, building sites with unique and target content that's e
 ### PageRank
 
 <div align="center">
-  <img src="./physical.location.jpg"/>
+  <img src="./img/page-rank.jpg"/>
 </div>
 
 first algorithm used by Google for search results. PageRank works by counting the number and quality of links to a page to determine a rough estimate of how importance of a site compared to other sites of a similar nature or content.
@@ -35,7 +35,7 @@ first algorithm used by Google for search results. PageRank works by counting th
 ### Long Tail Keywords
 
 <div align="center">
-  <img src="./physical.location.jpg"/>
+  <img src="./img/long-tail-keywords.jpg"/>
 </div>
 
 3 or 4 keywords phrases that are very specific to a site's content or business...

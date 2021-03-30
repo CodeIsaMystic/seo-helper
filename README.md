@@ -34,7 +34,7 @@ In order to easily handle this routine on every project, we gather all the right
 
 <div align="center">
 
-<img src="./fb-og-image.jpg"/>
+<img src="./img/fb-og-image.jpg"/>
 
 </div>
 
@@ -45,7 +45,7 @@ In order to easily handle this routine on every project, we gather all the right
 
 <div align="center">
 
-<img src="./fb-og-image-example.jpg"/>
+<img src="./img/fb-og-image-example.jpg"/>
 
 </div>
 
