@@ -26,10 +26,10 @@ In order to easily handle this routine on every project, we gather all the right
 - Google +
 - Google authorship
 
---> API infos from:
-https://api.mike.works/api/v1/courses
+> API infos from: <br/>
+> https://api.mike.works/api/v1/courses
 
---> Tests: on developers Facebook tools,
+> Tests: on developers Facebook tools,
 
 ### OpenGraph
 
@@ -43,8 +43,8 @@ https://api.mike.works/api/v1/courses
 . og:url : the canonical url, no matter from where its redirected , it will be this canonical url
 
 > clear !== between the fetched and canonical urls
-> usually the desktop version
-> no session variables, no pagination parameters or other counters
+> </br> usually the desktop version
+> </br> no session variables, no pagination parameters or other counters
 
 . og:type content="article" : impact how your URLs get enriched in user's media feeds
 
