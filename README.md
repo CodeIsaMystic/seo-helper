@@ -1,14 +1,16 @@
 <div align="center">
-<h1>Search Engine Optimization Helper</h1>
-
-    <!-- height="80"
-    width="80" -->
 
 <img src="https://img.icons8.com/cotton/64/000000/seo-text.png"/>
 
-<p>General overview of search engine optimization made from fork repo and courses on that topic...</p>
+<br />
+
+<h1>Search Engine Optimization Helper</h1>
 
 <br />
+
+<p>General overview of search engine optimization made from fork repo and courses on that topic...</p>
+
+</div>
 
 ## Social media metatags templates
 
