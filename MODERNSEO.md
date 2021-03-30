@@ -16,7 +16,7 @@
 
 #### Physical Location
 
-<div align="center">
+<div>
   <img src="./img/physical-location.jpg"/>
 </div>
 
@@ -24,7 +24,7 @@ Traditional paths to SEO, building sites with unique and target content that's e
 
 ### PageRank
 
-<div align="center">
+<div>
   <img src="./img/page-rank.jpg"/>
 </div>
 
@@ -34,7 +34,7 @@ first algorithm used by Google for search results. PageRank works by counting th
 
 ### Long Tail Keywords
 
-<div align="center">
+<div>
   <img src="./img/long-tail-keywords.jpg"/>
 </div>
 
