@@ -10,9 +10,9 @@
   <p>Course on frontendmasters.com by Mike North working at LinkedIn, CEO of Mike.works</p>
 </div>
 
-## Course:
-
 ### Strategies
+
+<br/>
 
 #### Physical Location
 
@@ -38,32 +38,32 @@ first algorithm used by Google for search results. PageRank works by counting th
   <img src="./img/long-tail-keywords.jpg"/>
 </div>
 
-3 or 4 keywords phrases that are very specific to a site's content or business...
+> 3 or 4 keywords phrases that are very specific to a site's content or business...
 
 ### Keywords Tools
 
-Two main tools for finding potential keywords: Google's Keyword Planner & Google Trends
+> Two main tools for finding potential keywords: Google's Keyword Planner & Google Trends
 
 ### Link Building Campaign
 
-How to build authority within an industry and research competitor's site t help with link building strategy.
+> How to build authority within an industry and research competitor's site t help with link building strategy.
 
 ### White Hat vs Black Hat...
 
-Desire of organic, sustainable growth with SEO tactics VS trying to subvert search engine algorithms.
+> Desire of organic, sustainable growth with SEO tactics VS trying to subvert search engine algorithms.
 
 ### Ad Campaigns
 
-Besides organic SEO strategy, here an intro of buying ads on search engines as a way to drive traffic.
+> Besides organic SEO strategy, here an intro of buying ads on search engines as a way to drive traffic.
 
 ## Metadata Tools
 
-. Google Structured Data Testing Tool: https://search.google.com/structured-dat/testing-tool
+    . Google Structured Data Testing Tool: https://search.google.com/structured-dat/testing-tool
 
-. SEO META chrome extension: http://www.seo-extension.com
+    . SEO META chrome extension: http://www.seo-extension.com
 
-. Facebook Opengraph debugger: https://developers.facebook.com/tools/debug/
+    . Facebook Opengraph debugger: https://developers.facebook.com/tools/debug/
 
-. Twitter Card Validator: https://cards-dev.twitter.com/validator/
+    . Twitter Card Validator: https://cards-dev.twitter.com/validator/
 
-. Pinterest Rich Card debugger: https://developers.pinterest.com/tools/url-debugger/
+    . Pinterest Rich Card debugger: https://developers.pinterest.com/tools/url-debugger/
