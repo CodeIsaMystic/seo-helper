@@ -50,14 +50,26 @@ In order to easily handle this routine on every project, we gather all the right
 
 . **og:url :** the canonical url, no matter from where its redirected , it will be this canonical url
 
+<div align="center">
+<img src="./img/og-image-url.jpg"/>
+</div>
+
 > -> clear !== between the fetched and canonical urls
 > </br> -> usually the desktop version
 > </br> -> no session variables, no pagination parameters or other counters
 
 . **og:type content="article" :** impact how your URLs get enriched in user's media feeds
 
+<div align="center">
+<img src="./img/og-type.jpg"/>
+</div>
+
 > defaults to "website"
 
 #### Twitter og
+
+<div align="center">
+<img src="./img/twitter-cards.jpg"/>
+</div>
 
 #### Pinterest og
