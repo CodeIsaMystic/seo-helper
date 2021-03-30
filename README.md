@@ -26,27 +26,24 @@ In order to easily handle this routine on every project, we gather all the right
 - Google +
 - Google authorship
 
-> API infos from: <br/>
-> https://api.mike.works/api/v1/courses
-
-> Tests: on developers Facebook tools,
+> API infos from: <br/> > https://api.mike.works/api/v1/courses
 
 ### OpenGraph
 
 #### Facebook og
 
-. og:image : its a great thing to have an image representing the visual of the brand, if not it could be better to not publish a bad visual for the brand
+. **og:image :** its a great thing to have an image representing the visual of the brand, if not it could be better to not publish a bad visual for the brand
 
 > notice: its really great to think to have an image well
 > dimensioned
 
-. og:url : the canonical url, no matter from where its redirected , it will be this canonical url
+. **og:url :** the canonical url, no matter from where its redirected , it will be this canonical url
 
-> clear !== between the fetched and canonical urls
-> </br> usually the desktop version
-> </br> no session variables, no pagination parameters or other counters
+> -> clear !== between the fetched and canonical urls
+> </br> -> usually the desktop version
+> </br> -> no session variables, no pagination parameters or other counters
 
-. og:type content="article" : impact how your URLs get enriched in user's media feeds
+. **og:type content="article" :** impact how your URLs get enriched in user's media feeds
 
 > defaults to "website"
 
