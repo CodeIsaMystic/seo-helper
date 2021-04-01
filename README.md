@@ -30,28 +30,30 @@
 - [Mobile Optimization](course/MOBILEOPTIMIZATION.md)
 - [Accelerated Mobile Pages (AMP) Project](course/AMP.md)
 
-## SEO Practices
+## Problem
 
-To help the SEO part of a developer job, we build here an helper repo on the topic with various tasks to do when building a project.
+To help the SEO part of a developer job, we have to implement some method, find some solutions, sometimes some shortcuts or easy ways to complete tasks for what we are not specifically well experimented.
+We find out some solutions from our google research routine, always trying to learn the bests practices.
 
-We removed on the following list the Ad Campaign, and the AMP Project sections on purposes, because its a basic helper on the SEO topic but not a professional and complete guide.
 
-> this kind of "project" will be completed with time, it represent a starting point to have a better approach of Search Engine Optimization.
+## Solution
 
-1. **The Physical Business** basic job
-2. **The Page Rank principles**
-3. **The Long Tail Keywords**
+An helper repo on the topic with various tasks to do when building a project.
+
+**NOTICE :** 
+We removed on the following list the Ad Campaign, and the AMP Project sections on purposes. That is a basic helper on the SEO topic but not a professional and complete guide.
+
+> This kind of "project" will be completed with time, it represent a starting point to have a better approach of Search Engine Optimization.
+
+## SEO Practical
+
+1. **The Physical Business Basic Job**
+2. **The Page Rank Effort**
+3. **The Long Tail Keywords Thought**
 4. **The Link Build Campaign**
 5. **The Bad links control**
-6. **The Meta Data** Work
-
-- the basics
-- facebook opengraph
-- twitter card
-- pinterest case
-- linkedin post-inspector
-  
-7. **The Structured Data** (script ld-json)
+6. **The Meta Data Work**  
+7. **The Script Structured Data**
 8. **The Mobile Optimization**
 
 ## Social Media meta tags templates
