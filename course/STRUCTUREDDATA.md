@@ -7,8 +7,8 @@
   </p>
 </div>
 
-[Google Search Structured Data](https://developers.google.com/search/docs/guides/intro-structured-data?hl=fr)
-[Schema.org Documentation](https://schema.org/docs/documents.html)
+- [Google Search Structured Data](https://developers.google.com/search/docs/guides/intro-structured-data?hl=fr)
+- [Schema.org Documentation](https://schema.org/docs/documents.html)
 
 
 ## What Is This
