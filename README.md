@@ -67,12 +67,21 @@ In order to easily handle this routine on every project, we gather all the right
 - [full-template](templates/full-template.html)
 - [templates folder](templates)
 
-## Structured Data script ld-json model
+## Structured Data Breadcrumbs(script ld-json format)
+
+Make the search results more rich, and be sure that the infos are correct.
+Some infos the crawlers are looking for, consistent and showed only on mobile devices.
+
+A **Breadcrumbs script on ld+json format** usually inside the body tag. A json data structure with categories, types (sub-types) tp make some search cards results on mobile.
+
+Get more control on the company/business infos and how they look (cards, images, icons...).
 
 - [Schema.org website](https://schema.org/)
 - [Structured Data Infos](course/STRUCTUREDDATA.md)
 - [Breadcrumbs Model](breadcrumbs/breadcrumbs.html)
 
 ## Mobile Optimization
+
+Google forks their search index in two categories.
 
 ## Accelerated Mobile Pages (AMP)

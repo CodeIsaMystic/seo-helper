@@ -13,7 +13,7 @@
 <br/>
 
 - *My Business Google Page :* [https://www.google.com/intl/fr_fr/business](https://www.google.com/intl/fr_fr/business/)
-  > To each physical business, it need to create a business google page and have infos (data) updated
+> To each physical business, it need to create a business google page and have infos (data) updated
 
 - *Local directories :* [https://moz.com/local](https://moz.com/local)
 - *Local SEO :* [https://seo.co/local-seo/](https://seo.co/local-seo/)
@@ -55,10 +55,10 @@
 - *Facebook OpenGraph debugger :* [https://developers.facebook.com/tools/debug/](https://developers.facebook.com/tools/debug/)
 - *Twitter Card Validator :* [https://cards-dev.twitter.com/validator/](https://cards-dev.twitter.com/validator/)
 - *Pinterest Rich Card debugger :* [https://developers.pinterestcom/tools/url-debugger/](https://developers.pinterestcom/tools/url-debugger/)
-  > Their politic in terms of SEO changed in 2013. Need to take more infos in the future...
+> Their politic in terms of SEO changed in 2013. Need to take more infos in the future...
 - *The LinkedIN Post Inspector :* [https://www.linkedin.com/post-inspector/](https://www.linkedin.com/post-inspector/)
 - *Social Media Sizes Images :* [https://socialsizes.io](https://socialsizes.io/)
-  > French website giving the various social media sizes for icons and images displays
+> French website giving the various social media sizes for icons and images displays
 
 <br/>
 
@@ -68,7 +68,12 @@
 
 <br/>
 
+- *Google Structured Data Documentation :* [https://developers.google.com/search/docs/guides/intro-structured-data](https://developers.google.com/search/docs/guides/intro-structured-data)
+> All Google Search Docs on structured Data
+- *Schema org documentation :* [Schema.org Documentation](https://schema.org/docs/documents.html)
+> The schema documentation, with the model of data structure and the name of categories, the types and sub-types as value.
 - *Testing tool for Breadcrumbs List :* [https://search.google.com/test/rich-results](https://search.google.com/test/rich-results)
+> Test snippet (script) & url with preview
 
 <br/>
 
@@ -77,3 +82,6 @@
 ## MOBILE OPTIMIZATION
 
 <br/>
+
+- * :* []()
+

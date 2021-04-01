@@ -54,7 +54,7 @@ The Main Advantage we got, is to confirm and make sure the information are corre
 
 1. **Enhance features** in apps
 
-2. **Indexers don't have to guess so mush** about connections 
+2. **Indexers don't have to guess so much** about connections 
 between things
 
 3. More controls over the **search results look**
