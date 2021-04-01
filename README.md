@@ -6,6 +6,22 @@
 <p>General overview of search engine optimization made from fork repo, links, researches and courses on that topic...</p>
 </div>
 
+## Main Topics
+
+- [Traditional SEO](course/TRADITIONAL.md)
+  - [Physical Location](course/TRADITIONAL.md#physical-location)
+  - [Page Rank](course/TRADITIONAL.md#pagerank)
+  - [Long Tail Keywords](course/TRADITIONAL.md#long-tail-keywords)
+  - [Keywords Planner Tools](course/TRADITIONAL.md#keywords-planner-tools)
+  - [Link Building Campaign](course/TRADITIONAL.md#link-building-campaign)
+  - [White hat VS Black hat](course/TRADITIONAL.md#white-hat-vs-black-hat)
+  - [Bad Links](course/TRADITIONAL.md#bad-links)
+  - [Ad Campaign](course/TRADITIONAL.md#ad-campaigns)
+- [Meta Data](course/METADATA.md)
+- [Structured Data](course/STRUCTUREDDATA.md)
+- [Mobile Optimization](course/MOBILEOPTIMIZATION.md)
+- [Accelerated Mobile Pages (AMP) Project](course/AMP.md)
+
 ## SEO Practices
 
 To help the SEO part of a developer job, we build here an helper repo on the topic with various tasks to do when building a project.
@@ -35,19 +51,3 @@ We removed on the following list the Ad Campaign, and the AMP Project sections o
 Social media meta tags allows you to add social information to your website or contents.
 When you are sharing a url to social networks, they will find the social information which you defined between head tags.
 In order to easily handle this routine on every project, we gather all the right meta tags on this repository.
-
-### Main Topics
-
-- Traditional SEO
-- Meta Data
-- Structured Data
-- Mobile Optimization
-- Accelerated Mobile Pages (AMP) Project
-
-### Networks infos
-
-- Google
-- Facebook
-- Twitter
-- Pinterest
-- LinkedIN
