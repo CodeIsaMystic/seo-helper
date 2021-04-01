@@ -32,9 +32,9 @@ And schema.org will help on it, specifying how to do on each task we want to add
 > it will be show up only on mobile device
 > the trend is to optimize the mobile experience user
 
-1 **Infos** that crawlers are looking for, and can easily read
-2 **Consistent structure**
-3 **Formatted on ld-json** in a special script tag
+1- **Infos** that crawlers are looking for, and can easily read
+2- **Consistent structure**
+3- **Formatted on ld-json** in a special script tag
 
 ![ld-json format script pic example](../assets/img/script-ld-json-img.jpg)
 
@@ -51,12 +51,14 @@ The Main Advantage we got, is to confirm and make sure the information are corre
 - pagination or path...
 
 
-1 **Enhance features** in apps
-2 **Indexers don't have to guess so mush** about connections between things
-3 More controls over the **search results look**
+1 - **Enhance features** in apps
+2 - **Indexers don't have to guess so mush** about connections between things
+3 - More controls over the **search results look**
 
 ![search results look example](../assets/img/structured-data-visual.jpg)
+
 ![search results look example2](../assets/img/structured-data-example-visual.jpg)
+
 ![search results look example3](../assets/img/structured-data-example-visual2.jpg)
 
 ## Breadcrumbs
@@ -70,6 +72,7 @@ This is just Breadcrumbs, but its a lot of infos. It could easily be a BIG json 
  <br/>
 
 [*Schema org website*](https://schema.org/)
+
 ![schema intro pic](../assets/img/schema-org-title.jpg)
 
 Schema.org provides a huge list of schemas. They provide like a standard shape for, with the name of the properties and the types expected in the values (sub-types too).
