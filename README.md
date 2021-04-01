@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.icons8.com/cotton/64/000000/seo-text.png"/><br />
+<img src="assets/img/seo-main-img.jpg"/><br />
 
 <h1>Search Engine Optimization Helper</h1><br />
 
