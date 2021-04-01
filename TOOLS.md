@@ -1,5 +1,11 @@
-# SEO TOOLS
+<div align="center">
 
+  <img src="https://img.icons8.com/dusk/64/000000/roller-brush--v1.png"/>
+  <h1>SEO TOOLS</h1><br />
+
+</div>
+
+![business icon](https://img.icons8.com/dusk/48/000000/gg.png)
 ## BUSINESS
 
 - *My Business Google Page :* [https://www.google.com/intl/fr_fr/business](https://www.google.com/intl/fr_fr/business/)
@@ -9,6 +15,7 @@
 - *Local SEO :* [https://seo.co/local-seo/](https://seo.co/local-seo/)
 - *Google Search Console :* [https://developers.google.com/search](https://developers.google.com/search)
 
+![keywords icon](https://img.icons8.com/dusk/48/000000/key.png)
 ## KEYWORDS
 
 - *The WordTracker App :* [https://www.wordtracker.com/](https://www.wordtracker.com/)
@@ -16,13 +23,14 @@
 - *Google Keyword Planner :* [https://ads.google.com/home/tools/keyword-pla](https://ads.google.com/home/tools/keyword-pla)
 - *Google Trends :* [https://trends.google.com/trends/](https://trends.google.com/trends/)
 
+![links section icon](https://img.icons8.com/dusk/48/000000/link.png)
 ## LINKS & BAD LINKS
 
 - *Spyfu :* [https://www.spyfu.com/](https://www.spyfu.com/)
 - *Google Search Console :* [https://search.google.com/search-console/](https://search.google.com/search-console/)
 - *Google Disavow Tool :* [https://support.google.com/webmasters/answer/](https://support.google.com/webmasters/answer/)
   
-
+![meta data section icon](https://img.icons8.com/dusk/48/000000/data-recovery.png)
 ## METADATA
 
 - *Google Structured Data Testing Tool :* [https://search.google.com/structured-dat/testing-tool](https://search.google.com/structured-dat/testing-tool)
