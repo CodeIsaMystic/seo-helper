@@ -38,5 +38,4 @@
 [*Schema org website*](https://schema.org/)
 ![schema intro pic](../assets/img/schema-org-title.jpg)
 
-
 ![schema intro pic](../assets/img/schema-org-organization.jpg)
