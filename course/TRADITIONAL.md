@@ -1,13 +1,11 @@
 [API link](https://api.mike.works/api/v1/courses)
 
 <div align="center">
-  <h1>Modern Search Engine Optimization (SEO)</h1>
+  <h1>Modern Search Engine Optimization (SEO)</h1><br />
 
-  <br />
+  <img src="../assets/img/traditional-seo.jpg" alt="hero traditional SEO presentation"/>
 
-  <img src="./img/traditional-seo.jpg" alt="hero traditional SEO presentation"/>
-
-  <p>Course on 
+  <p>Course on
     <a href="https://frontendmasters.com" target="_blank">frontendmasters.com</a> 
   by Mike North working at LinkedIn, CEO of 
     <a href="https://mike.works/" target="_blank">Mike.works
@@ -32,7 +30,7 @@ Traditional paths to SEO, building sites with unique and target content that's e
 
 The First algorithm used by Google for search results. PageRank works by **counting the number and quality of links to a page** to determine a rough estimate of **how importance of a site compared to other sites** of a similar nature or content.
 
-![page rank pic](img/page-ranking-pic-sm.jpg)
+![page rank pic](../assets/img/page-ranking-pic-sm.jpg)
 
 ### Long Tail Keywords
 
@@ -42,7 +40,7 @@ The First algorithm used by Google for search results. PageRank works by **count
 >- [App WordTracker](https://www.wordtracker.com/)
 >- [Sem Rush](https://www.semrush.com/)
 
-![long tail keywords pic](img/long-tail-keywords.jpg)
+![long tail keywords pic](../assets/img/long-tail-keywords.jpg)
 
 ### Keywords Planner Tools
 
@@ -81,7 +79,7 @@ The First algorithm used by Google for search results. PageRank works by **count
 
 ### Ad Campaigns
 
-![google adwords logo](img/ad-campaign.jpg)
+![google adwords logo](../assets/img/ad-campaign.jpg)
 
 > Besides organic SEO strategy, here an intro of buying ads on search engines as a way to drive traffic.
 
@@ -93,7 +91,7 @@ The First algorithm used by Google for search results. PageRank works by **count
   
 **NOT A MAGIC PILL**
 
-. CPM Cost Per 1000 impressions
-. CPC Cost Per Click
-. CPA Cost Per Action (conversions)
-. CPI Cost Per Install
+- CPM Cost Per 1000 impressions
+- CPC Cost Per Click
+- CPA Cost Per Action (conversions)
+- CPI Cost Per Install

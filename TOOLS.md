@@ -27,3 +27,4 @@
   . [Facebook Opengraph debugger:](https://developers.facebook.com/tools/debug/)
   . [Twitter Card Validator:](https://cards-dev.twitter.com/validator/)
   . [Pinterest Rich Card debugger:](https://developers.pinterestcom/tools/url-debugger/)
+  . [The LinkedIN Post Inspector](https://www.linkedin.com/post-inspector/)

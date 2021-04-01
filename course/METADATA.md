@@ -3,7 +3,7 @@
 
   <br />
 
-  <img src="./img/hero-img-metadata.jpg" alt="hero metadata SEO presentation"/>
+  <img src="../assets/img/hero-img-metadata.jpg" alt="hero metadata SEO presentation"/>
 
 </div>
 
@@ -13,15 +13,17 @@
 - **description** : 120/156 characters brief summary of what the page is about.
 - **keywords** : don't matter anymore.
 
-![basics metadata head html file example](/img/basics-metadata.jpg)
+![basics metadata head html file example](../assets/img/basics-metadata.jpg)
 
 ## OpenGraph Meta Tags
 
-[*link source protocol*](https://opengraphprotocol.org/)
+[*The OpenGraph Protocol*](https://opengraphprotocol.org/)
+[*Article: vider le cache des réseaux sociaux*](https://www.blogdumoderateur.com/vider-cache-reseaux-sociaux/)
+
 
 ### Facebook OpenGraph
 
-![facebook og section main title](img/fb-og-title.jpg)
+![facebook og section main title](../assets/img/fb-og-title.jpg)
 
 #### The Image OpenGraph (og:image)
  
@@ -29,8 +31,8 @@
 
 > notice: its a great thing to have an image well dimensioned
 
-![facebook open graph image illustration](/img/fb-og-image.jpg)
-![facebook open graph image example](/img/fb-og-image-example.jpg)
+![facebook open graph image illustration](../assets/img/fb-og-image.jpg)
+![facebook open graph image example](../assets/img/fb-og-image-example.jpg)
 
 #### The Url OpenGraph (og:url)
 
@@ -40,21 +42,24 @@
 - usually the desktop version
 - no session variables, no pagination parameters or other counters
 
-![fetch and canonical url example](/img/og-urls.jpg)
+![fetch and canonical url example](../assets/img/og-urls.jpg)
 
 #### The Type OpenGraph (og:type)
 
 Impact how your URLs get enriched in user's media feeds
-
-![open graph type example music content](img/og-type.jpg)
-![open graph type list](/img/og-type-list.jpg)
 > defaults to "website"
+
+![open graph type example music content](../assets/img/og-type.jpg)
+![open graph type list](../assets/img/og-type-list.jpg)
+
+> **FACEBOOK DEBUGGER TOOL:**
+  [Facebook Opengraph debugger:](https://developers.facebook.com/tools/debug/)
 
 ### Twitter Card
 
-![twitter card main title](img/twitter-main-title.jpg)
+![twitter card main title](../assets/img/twitter-main-title.jpg)
 
-![basic twitter cards meta tags example](img/twitter-cards.jpg)
+![basic twitter cards meta tags example](../assets/img/twitter-cards.jpg)
 
 Lots of possibilities, but it need to be really consistent in our job. Video Cards will be checked to avoid abuses. The Twitter UI might change and with all of that possibilities, it open up an opportunity to adapt our strategy with those tools, components...
 
@@ -65,19 +70,19 @@ Lots of possibilities, but it need to be really consistent in our job. Video Car
 
 - **The Summary Card (summary)**
 
-![basic twitter cards meta tags example](/img/twitter-cards2.jpg)
+![basic twitter cards meta tags example](../assets/img/twitter-cards2.jpg)
 
 - **The Large Image Summary Card (summary_large_image)**
 
-![basic twitter cards meta tags example](img/twitter-cards3.jpg)
+![basic twitter cards meta tags example](../assets/img/twitter-cards3.jpg)
 
 - **The Player Video Card (player)**
 
-![basic twitter cards meta tags example](img/twitter-cards4.jpg)
+![basic twitter cards meta tags example](../assets/img/twitter-cards4.jpg)
 
 - **The App Card (app)**
 
-![basic twitter app card meta tags example](img/twitter-cards5.jpg)
+![basic twitter app card meta tags example](../assets/img/twitter-cards5.jpg)
 
 > **NOTICE:**
 >
@@ -87,8 +92,15 @@ Lots of possibilities, but it need to be really consistent in our job. Video Car
 
 #### The Twitter Site & Twitter Creator (twitter:site twitter:creator)
 
-![legend on img explaining og site and creator](img/twitter-card-site-creator.jpg)
+![legend on img explaining og site and creator](../assets/img/twitter-card-site-creator.jpg)
 
 #### The Twitter Image (twitter:image)
 
-![twitter display image sizes](img/twitter-og-img.jpg)
+![twitter display image sizes](../assets/img/twitter-og-img.jpg)
+
+### LinkedIN Inspector
+
+![LinkedIN post-inspector](../assets/img/linkedin-post-inspector-visual.jpg)
+
+> **POST INSPECTOR TOOL:**
+  [The LinkedIN Post Inspector](https://www.linkedin.com/post-inspector/)
