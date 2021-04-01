@@ -32,7 +32,7 @@ Traditional paths to SEO, building sites with unique and target content that's e
 
 The First algorithm used by Google for search results. PageRank works by **counting the number and quality of links to a page** to determine a rough estimate of **how importance of a site compared to other sites** of a similar nature or content.
 
-![page rank pic](img/page-rank.jpg)
+![page rank pic](img/page-ranking-pic-sm.jpg)
 
 ### Long Tail Keywords
 
