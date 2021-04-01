@@ -6,7 +6,7 @@
 <p>General overview of search engine optimization made from fork repo, links, researches and courses on that topic...</p>
 </div>
 
-## Main Topics
+## Table of content
 
 - [Traditional SEO](course/TRADITIONAL.md)
   - [Physical Location](course/TRADITIONAL.md#physical-location)
@@ -51,3 +51,8 @@ We removed on the following list the Ad Campaign, and the AMP Project sections o
 Social media meta tags allows you to add social information to your website or contents.
 When you are sharing a url to social networks, they will find the social information which you defined between head tags.
 In order to easily handle this routine on every project, we gather all the right meta tags on this repository.
+
+[link](templates)
+[full-template](templates/full-template.html)
+[minimal-template](templates/minimal-template.html)
+[standard-template](templates/standard-template.html)
