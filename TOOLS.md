@@ -2,29 +2,35 @@
 
 ## BUSINESS
 
-  1 Google [*My Business*](https://www.google.com/intl/fr_fr/business/) Page
-  2 Local directories : [*moz.com/local*](https://moz.com/local)
-  3 [*Local SEO*](https://seo.co/local-seo/)
-  4 [*Google Search Console*](https://developers.google.com/search)
+- *My Business Google Page :* [https://www.google.com/intl/fr_fr/business](https://www.google.com/intl/fr_fr/business/)
+  > To each physical business, it need to create a business google page and have infos (data) updated
+
+- *Local directories :* [https://moz.com/local](https://moz.com/local)
+- *Local SEO :* [https://seo.co/local-seo/](https://seo.co/local-seo/)
+- *Google Search Console :* [https://developers.google.com/search](https://developers.google.com/search)
 
 ## KEYWORDS
 
-  1 [App WordTracker](https://www.wordtracker.com/)
-  2 [Sem Rush](https://www.semrush.com/)
-  3 [Google Keyword Planner](https://ads.google.com/home/tools/keyword-pla)
-  4 [Google Trends](https://trends.google.com/trends/)
+- *The WordTracker App :* [https://www.wordtracker.com/](https://www.wordtracker.com/)
+- *Sem Rush :* [https://www.semrush.com/](https://www.semrush.com/)
+- *Google Keyword Planner :* [https://ads.google.com/home/tools/keyword-pla](https://ads.google.com/home/tools/keyword-pla)
+- *Google Trends :* [https://trends.google.com/trends/](https://trends.google.com/trends/)
 
 ## LINKS & BAD LINKS
 
-  1 [Spyfu](https://www.spyfu.com/)
-  2 [Google Search Console](https://search.google.com/search-console/)
-  3 [Google Disavow Tool](https://support.google.com/webmasters/answer/)
+- *Spyfu :* [https://www.spyfu.com/](https://www.spyfu.com/)
+- *Google Search Console :* [https://search.google.com/search-console/](https://search.google.com/search-console/)
+- *Google Disavow Tool :* [https://support.google.com/webmasters/answer/](https://support.google.com/webmasters/answer/)
+  
 
 ## METADATA
 
-  1 [Google Structured Data Testing Tool:](https://search.google.com/structured-dat/testing-tool)
-  2 [SEO META chrome extension: ](http://www.seo-extension.com)
-  3 [Facebook Opengraph debugger:](https://developers.facebook.com/tools/debug/)
-  4 [Twitter Card Validator:](https://cards-dev.twitter.com/validator/)
-  5 [Pinterest Rich Card debugger:](https://developers.pinterestcom/tools/url-debugger/)
-  6 [The LinkedIN Post Inspector](https://www.linkedin.com/post-inspector/)
+- *Google Structured Data Testing Tool :* [https://search.google.com/structured-dat/testing-tool](https://search.google.com/structured-dat/testing-tool)
+- *SEO META chrome extension :* [http://www.seo-extension.com](http://www.seo-extension.com)
+- *Facebook OpenGraph debugger :* [https://developers.facebook.com/tools/debug/](https://developers.facebook.com/tools/debug/)
+- *Twitter Card Validator :* [https://cards-dev.twitter.com/validator/](https://cards-dev.twitter.com/validator/)
+- *Pinterest Rich Card debugger :* [https://developers.pinterestcom/tools/url-debugger/](https://developers.pinterestcom/tools/url-debugger/)
+  > Their politic in terms of SEO changed in 2013. Need to take more infos in the future...
+- *The LinkedIN Post Inspector :* [https://www.linkedin.com/post-inspector/](https://www.linkedin.com/post-inspector/)
+- *Social Media Sizes Images :* [https://socialsizes.io](https://socialsizes.io/)
+  > French website giving the various social media sizes for icons and images displays
