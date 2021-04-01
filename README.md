@@ -14,12 +14,12 @@ We removed on the following list the Ad Campaign, and the AMP Project sections o
 
 > this kind of "project" will be completed with time, it represent a starting point to have a better approach of Search Engine Optimization.
 
-**1 The Physical Business** basic job
-**2 The Page Rank principles**
-**3 The Long Tail Keywords**
-**4 The Link Build Campaign**
-**5 The Bad links control**
-**6 The Meta Data** Work
+1. **The Physical Business** basic job
+2. **The Page Rank principles**
+3. **The Long Tail Keywords**
+4. **The Link Build Campaign**
+5. **The Bad links control**
+6. **The Meta Data** Work
 
 - the basics
 - facebook opengraph
@@ -27,8 +27,8 @@ We removed on the following list the Ad Campaign, and the AMP Project sections o
 - pinterest case
 - linkedin post-inspector
   
-**7 The Structured Data** (script ld-json)
-**8 The Mobile Optimization**
+7. **The Structured Data** (script ld-json)
+8. **The Mobile Optimization**
 
 ## Social media meta tags templates
 
