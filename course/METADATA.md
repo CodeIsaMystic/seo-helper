@@ -98,7 +98,7 @@ Lots of possibilities, but it need to be really consistent in our job. Video Car
 
 ![twitter display image sizes](../assets/img/twitter-og-img.jpg)
 
-### LinkedIN Inspector
+### Linkedin Inspector
 
 ![LinkedIN post-inspector](../assets/img/linkedin-post-inspector-visual.jpg)
 

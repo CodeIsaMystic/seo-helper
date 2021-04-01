@@ -7,7 +7,7 @@
   </p>
 </div>
 
-## What Is This ?
+## What Is This
 
 ![structured data what is this title](../assets/img/structured-data-title-what.jpg)
 
@@ -17,7 +17,7 @@
 
 ![ld-json format script pic example](../assets/img/script-ld-json-img.jpg)
 
-## What Does This Get Us ?
+## What Does This Get Us
 
 ![structured data what does this get us title](../assets/img/structured-data-title-get.jpg)
 

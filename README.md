@@ -22,7 +22,7 @@
   - [The OpenGraph](course/METADATA.md#opengraph-meta-tags)
     - [The Facebook OpenGraph](course/METADATA.md#facebook-opengraph)
     - [The Twitter Card](course/METADATA.md#twitter-card)
-    - [The LinkedIN Inspector](course/METADATA.md#LinkedIN-Inspector)
+    - [The LinkedIN Inspector](course/METADATA.md#linkedin-inspector)
 - [Structured Data](course/STRUCTUREDDATA.md)
   - [What Is This ?](course/STRUCTUREDDATA.md#what-is-this-?)
   - [What Does This Get Us ?](course/STRUCTUREDDATA.md#what-does-this-get-us-?)
