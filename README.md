@@ -70,8 +70,8 @@ In order to easily handle this routine on every project, we gather all the right
 ## Structured Data script ld-json model
 
 - [Schema.org website](https://schema.org/)
-- [Structured Data File](course/STRUCTUREDDATA.md)
-- [Script ld-json Model](templates/breadcrumbs.html)
+- [Structured Data Infos](course/STRUCTUREDDATA.md)
+- [Breadcrumbs Model](breadcrumbs/breadcrumbs.html)
 
 ## Mobile Optimization
 

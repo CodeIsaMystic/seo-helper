@@ -6,7 +6,7 @@
 </div>
 <br/>
 
-![business icon](https://img.icons8.com/dusk/48/000000/gg.png)
+![business icon](https://img.icons8.com/dusk/48/000000/worldwide-location.png)
 
 ## PHYSICAL LOCATION
 
@@ -62,11 +62,18 @@
 
 <br/>
 
-![meta data section icon](https://img.icons8.com/dusk/48/000000/data-recovery.png)
+![meta data section icon](https://img.icons8.com/dusk/50/000000/bread-crumbs.png)
 
-## DATA STRUCTURED 
+## BREADCRUMBS DATA STRUCTURED
 
-### BREADCRUMBS
+<br/>
 
 - *Testing tool for Breadcrumbs List :* [https://search.google.com/test/rich-results](https://search.google.com/test/rich-results)
+
+<br/>
+
+![meta data section icon](https://img.icons8.com/dusk/50/000000/mobile-social-networking.png)
+
+## MOBILE OPTIMIZATION
+
 <br/>
