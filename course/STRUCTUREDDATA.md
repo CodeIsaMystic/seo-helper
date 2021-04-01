@@ -1,8 +1,7 @@
 <div align="center">
   <h1>Structured Data</h1><br/>
 
-  <img src="../assets/img/structured-data-main-image.jpg
-  " alt="hero structured data SEO presentation"/>
+  <img src="../assets/img/structured-data-main-image.jpg" alt="hero structured data SEO presentation"/>
 
   <p>
   </p>
