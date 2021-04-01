@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head></head>
+<body>
+  
+
+  <!-- Breadcrumb script tag  -->
+  <script type="application/ld+json">
+    ...
+  </script>
+  
+  <!-- Breadcrumb basic schema 
+  refer to the next example to have model -->
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Open-source framework for publishing content",
+      "datePublished": "2015-10-07T12:02:41Z",
+      "image": [
+        "logo.jpg"
+      ]
+    }
+  </script>
+
+
+  <!--  Breadcrumbs example 
+    can have really more data -->
+  <script type="application/ld+json">
+    {
+      // attempting to conform in that schema context 
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https://mike-seo.herokuapp.com",
+          "name": "Courses"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@id": "https://mike-seo.herokuapp.com/course/ypescript-3-essentials-4e297cf",
+          "name": "TypeScript 3 The Essentials",
+          "image": "http://example.com/images/icon-title.png"
+        }
+      }]
+    }
+  </script>
+  
+
+  <!--  Breadcrumbs example 2 -->
+  <script type="application/ld+json">
+    {
+      // attempting to conform in that schema context 
+      "@context": "http://schema.org",
+      "@type": "Course",
+      "name": "Introduction to Computer Science Programming",
+      "description": "Introductory CS Course laying out the basics",
+      "provider": {
+        "@type": "Organization",
+        "name": "Frontend Masters",
+        "sameAs": "https://frontendmasters.com/"
+        }
+    }
+  </script>
+
+  <!-- 
+    Test on: "https://search.google.com/test/rich-results"
+    Notice: possibility to PREVIEW
+  -->
+
+
+</body>
+</html>

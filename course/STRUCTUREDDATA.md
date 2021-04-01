@@ -9,11 +9,13 @@
 
 - [Google Search Structured Data](https://developers.google.com/search/docs/guides/intro-structured-data?hl=fr)
 - [Schema.org Documentation](https://schema.org/docs/documents.html)
-
+- [Breadcrumbs tests rich results tool](https://search.google.com/test/rich-results)
 
 ## What Is This
 
 ![structured data what is this title](../assets/img/structured-data-title-what.jpg)
+
+Make your search results much more rich!
 
 This is a way to ensure that everything is correct.
 
@@ -50,9 +52,11 @@ The Main Advantage we got, is to confirm and make sure the information are corre
 - ingredients for a recipe
 - pagination or path...
 
-
 1. **Enhance features** in apps
-2. **Indexers don't have to guess so mush** about connections between things
+
+2. **Indexers don't have to guess so mush** about connections 
+between things
+
 3. More controls over the **search results look**
 
 ![search results look example](../assets/img/structured-data-visual.jpg)
@@ -62,6 +66,8 @@ The Main Advantage we got, is to confirm and make sure the information are corre
 ![search results look example3](../assets/img/structured-data-example-visual2.jpg)
 
 ## Breadcrumbs
+
+[Breadcrumbs tests rich results tool](https://search.google.com/test/rich-results)
 
 We focus on the ability the way we look...
 
