@@ -136,5 +136,18 @@
 
 <br/>
 
-- * :* []()
+- *Favicon Set Generator :* [https://realfavicongenerator.net/](https://realfavicongenerator.net/)
+  
+> A web tool to convert your favicon for each icon screen sizes
 
+- *Add-home-to-screen library :* [https://github.com/cubiq/add-to-homescreen](https://github.com/cubiq/add-to-homescreen)
+
+> Basic library adding a add button to phone bookmark easily
+
+- *iOS Simulator :* [https://appetize.io/](https://appetize.io/)
+
+> Basic iOS simulator to test app.
+
+- *Lighthouse Extension Testing Tool :* [https://chrome.google.com/webstore/detail/lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=fr)
+
+> The ultimate test and validator: seo, performance, accessibility, pwa.

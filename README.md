@@ -28,6 +28,13 @@
   - [What Does This Get Us ?](course/STRUCTUREDDATA.md#what-does-this-get-us)
   - [Breadcrumbs](course/STRUCTUREDDATA.md#breadcrumbs)
 - [Mobile Optimization](course/MOBILEOPTIMIZATION.md)
+  - [Intro](course/MOBILEOPTIMIZATION.md##Intro)
+  - [Viewport](course/MOBILEOPTIMIZATION.md##The-viewport)
+  - [Full Screen iOS](course/MOBILEOPTIMIZATION.md##The-Full-screen-Mode-(iOS))
+  - [The Web App Manifest](course/MOBILEOPTIMIZATION.md##The-Manifest.json-(Android))
+  - [Home Screen Icons](course/MOBILEOPTIMIZATION.md##Home-Screen-Icons)
+  - [Add-to-home-screen](course/MOBILEOPTIMIZATION.md##Add-To-Home-Screen-Lib)
+  - [Ultimate Test "Fit or Fat"](course/MOBILEOPTIMIZATION.md##The-Ultimate-test:-"Fit-Or-Fat"-app)
 - [Accelerated Mobile Pages (AMP) Project](course/AMP.md)
 
 ## Problem
@@ -67,7 +74,7 @@ In order to easily handle this routine on every project, we gather all the right
 - [full-template](templates/full-template.html)
 - [templates folder](templates)
 
-## Structured Data Breadcrumbs(script ld-json format)
+## Structured Data Breadcrumbs(script ld+json)
 
 Make the search results more rich, and be sure that the infos are correct.
 Some infos the crawlers are looking for, consistent and showed only on mobile devices.
@@ -82,6 +89,18 @@ Get more control on the company/business infos and how they look (cards, images,
 
 ## Mobile Optimization
 
-Google forks their search index in two categories.
+Google forked their search index in two categories.
+We focus on **the way the app/website is fit** as on accessibility, performance or seo.
+
+- [optimization.html](mobile-optimization/optimization.html)
+- [manifest.json](mobile-optimization/manifest.json)
+- [Optimization course](course/MOBILEOPTIMIZATION.md)
+
+
+#### Links & Tools:
+- [favicon set generator](https://realfavicongenerator.net/)
+- [add-to-home-screen](https://github.com/cubiq/add-to-homescreen)
+- [iOS simulator](https://appetize.io/)
+- [lighthouse extension testing tool](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=fr) 
 
 ## Accelerated Mobile Pages (AMP)

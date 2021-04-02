@@ -8,7 +8,10 @@
 
   <br />
 
+- [favicon set generator](https://realfavicongenerator.net/)
 - [add-to-home-screen](https://github.com/cubiq/add-to-homescreen)
+- [iOS simulator](https://appetize.io/)
+- [lighthouse extension testing tool](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=fr)
 
 ## Intro
 
@@ -36,7 +39,7 @@ The **user-scalable** is an ON/OFF setting to being able to zoom or not on the d
 > If we want to turn the user experience **to a native app, its necessary to set to OFF**
 > Maybe on certain area on the site but not on the navbar or another UI Component
 
-## The Full-screen Mode
+## The Full-screen Mode (iOS)
 
  ![the full screen meta tag](../assets/img/full-screen-mode.jpg)
 
@@ -46,9 +49,9 @@ The **user-scalable** is an ON/OFF setting to being able to zoom or not on the d
 
  On that mode, there is also the possibility to put **the status bar black**.
 
- Then the **"Home Screen Title" button animation** (max of 30 characters)
+ Then the **"Home Screen title button animation"** (max of 30 characters)
 
-## The Manifest.json
+## The Manifest.json (Android)
 
 ![the manifest.json file](../assets/img/manifest-json-file.jpg)
 
@@ -89,3 +92,25 @@ The Full-screen mode is more like a game UI instead of the "standalone" mode bei
 > NOTICE: that its a bad practice even it can be really great to captive the user adding your app to home.
 > 
 > It could be handled in terms of frequency (each 10 days), and set that function to the script
+
+#### How To Test It Out
+
+1. Set the html file with **all meta data and links tag**, the **add-to-home-screen too**.
+2. **Launch** on the right device, **Add to Home**.
+3. Then **restart the app from the Home button**.
+4. You must have a mobile app experience...
+
+> **NOTICE :**
+> You can **set your CSS styles on that purpose**, fixing the navbar, maybe at the bottom, removing the zoom with user-scalable, setting that zoom on specific area, adjusting the app styles...
+
+## The Ultimate Test: "Fit Or Fat" app
+
+<br/>
+
+![lighthouse plugin visual](../assets/img/lighthouse-plugin-visual.jpg)
+
+[Lighthouse Extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=fr)
+
+Google has a nice extension to test, validate your app as mobile optimization and give you score over 100. It shows you what to fix, to optimize but also an idea about "the fitness" of your app it will be evaluated in terms of seo by their search indexes.
+
+![lighthouse plugin result](../assets/img/lighthouse-plugin-result.jpg)
