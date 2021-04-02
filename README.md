@@ -30,11 +30,11 @@
 - [Mobile Optimization](course/MOBILEOPTIMIZATION.md)
   - [Intro](course/MOBILEOPTIMIZATION.md##Intro)
   - [Viewport](course/MOBILEOPTIMIZATION.md##The-viewport)
-  - [Full Screen iOS](course/MOBILEOPTIMIZATION.md##The-Full-screen-Mode-(iOS))
-  - [The Web App Manifest](course/MOBILEOPTIMIZATION.md##The-Manifest.json-(Android))
-  - [Home Screen Icons](course/MOBILEOPTIMIZATION.md##Home-Screen-Icons)
-  - [Add-to-home-screen](course/MOBILEOPTIMIZATION.md##Add-To-Home-Screen-Lib)
-  - [Ultimate Test "Fit or Fat"](course/MOBILEOPTIMIZATION.md##The-Ultimate-test:-"Fit-Or-Fat"-app)
+  - [Full Screen iOS](course/MOBILEOPTIMIZATION.md#The-Full-screen-Mode-(iOS))
+  - [The Web App Manifest](course/MOBILEOPTIMIZATION.md#The-Manifest.json-(Android))
+  - [Home Screen Icons](course/MOBILEOPTIMIZATION.md#Home-Screen-Icons)
+  - [Add-to-home-screen](course/MOBILEOPTIMIZATION.md#Add-To-Home-Screen-Lib)
+  - [Ultimate Test "Fit or Fat"](course/MOBILEOPTIMIZATION.md#The-Ultimate-test:-"Fit-Or-Fat"-app)
 - [Accelerated Mobile Pages (AMP) Project](course/AMP.md)
 
 ## Problem
