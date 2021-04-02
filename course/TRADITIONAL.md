@@ -12,6 +12,7 @@
     </a>
   </p>
 </div>
+<br />
 
 ## Strategies
 
@@ -19,12 +20,12 @@ Traditional paths to SEO, building sites with unique and target content that's e
 
 ### Physical Location
 
-- create a complete Google [*My Business*](https://www.google.com/intl/fr_fr/business/) Page
-- submit your business to local directories : [*moz.com/local*](https://moz.com/local)
-- handle the errors / outdated infos in Local Citations.[*local-seo*](https://seo.co/local-seo/)
-- set specific geographic-targeting in [*Google Search Console*](https://developers.google.com/search)
-- ask for reviews for your business and display on your website
-- acquire local back links - vendors, partners, local NGOs ...
+- create a complete **Google [*My Business*](https://www.google.com/intl/fr_fr/business/) Page**
+- submit your business to **local directories** : [*moz.com/local*](https://moz.com/local)
+- **handle the errors / outdated infos** in Local Citations [(*local-seo*)](https://seo.co/local-seo/)
+- set **specific geographic-targeting** in [*Google Search Console*](https://developers.google.com/search)
+- **ask for reviews** for your business and display on your website
+- **acquire local back links** - vendors, partners, local NGOs ...
   
 ### PageRank
 
@@ -36,19 +37,26 @@ The First algorithm used by Google for search results. PageRank works by **count
 
 3 or 4 keywords phrases that are very specific to a site's content or business...
 
-> **Key Words Tools:**
->- [App WordTracker](https://www.wordtracker.com/)
->- [Sem Rush](https://www.semrush.com/)
+**Key Words Tools:**
+- [App WordTracker](https://www.wordtracker.com/)
+- [Sem Rush](https://www.semrush.com/)
+<br />
 
 ![long tail keywords pic](../assets/img/long-tail-keywords.jpg)
+
+> On the graphic we do the conclusion that maybe it will be a great decision to find out the "precise" key words, **the "niche of a business"**.
+>
+> It seems to be **hard to front of the high level business competition**, rather than much more easy to be more precise on your offer, people do have a need.
+> 
+> It could be a on the web, in a special physical business location or to a special need, in a specific product/service...
 
 ### Keywords Planner Tools
 
 **Two main tools for finding potential keywords:** Google's Keyword Planner & Google Trends
 
-> **Keywords Planner Tools:**
->- [Google Keyword Planner](https://ads.google.com/home/tools/keyword-pla)
->- [Google Trends](https://trends.google.com/trends/)
+**Keywords Planner Tools:**
+- [Google Keyword Planner](https://ads.google.com/home/tools/keyword-pla)
+- [Google Trends](https://trends.google.com/trends/)
 
 ### Link Building Campaign
 
@@ -62,26 +70,28 @@ The First algorithm used by Google for search results. PageRank works by **count
 
 ### White Hat vs Black Hat
 
-> Desire of organic, sustainable growth with SEO tactics **VS** trying to subvert search engine algorithms.
+> Desire of organic, sustainable growth with **seo tactics VS subversion of search engine algorithms**.
+> Better to advise that you are not "playing this game".
 
 ### Bad Links
 
 1. Remove links reference from **spammy websites**
 2. Review **Search Traffic & Links**
 3. **Disavow Bad Links**
-4. **Eliminate Links Exchange** with others websites
-  => *add <rel="nofollow">*
+4. **Eliminate Bad Links Exchange** with others websites
+  => *add rel="nofollow"*
 5. **Remove dead links** to your site
 
 > **Removing bad links tools & tips:**
 >- [Google Search Console](https://search.google.com/search-console/)
 >- [Google Disavow Tool](https://support.google.com/webmasters/answer/)
 
+
 ### Ad Campaigns
 
-![google adwords logo](../assets/img/ad-campaign.jpg)
+![google adwords presentation](../assets/img/ad-campaign.jpg)
 
-> Besides organic SEO strategy, here an intro of buying ads on search engines as a way to drive traffic.
+> Besides organic SEO strategy, here a recap of buying ads & ad campaigns strategy on search engines as a way to drive traffic.
 
 1. Target the Right Audience
 2. Cost Effective
@@ -89,9 +99,9 @@ The First algorithm used by Google for search results. PageRank works by **count
 4. Short Feedback Loop
 5. Control Over Risk
   
-**NOT A MAGIC PILL**
+REMEMBER: **THERE IS NOT A MAGIC PILL !!!**
 
-- CPM Cost Per 1000 impressions
-- CPC Cost Per Click
-- CPA Cost Per Action (conversions)
-- CPI Cost Per Install
+>- CPM - Cost Per 1000 impressions
+>- CPC - Cost Per Click
+>- CPA - Cost Per Action (conversions)
+>- CPI - Cost Per Install

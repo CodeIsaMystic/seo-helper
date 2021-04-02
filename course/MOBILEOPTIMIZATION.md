@@ -12,15 +12,15 @@
 
 ## Intro
 
-Google **forks their search index**, their "master data" in 2 categories because of the mobile traffic explosion.
-The relevant and importance in search results in various keywords.
-Now they have search index for desktop and also for Mobile.
+Google **forked their search index**, their "master data" in 2 categories because of the mobile traffic explosion.
+The relevant and importance in search results is based on various keywords.
+Now they have search index for Mobile and also for all the other devices (Desktop).
 
-*Shopping, getting more infos, checking mails, adresses, businesses...*
+*Mobile traffic: shopping, getting more infos, checking mails, adresses, businesses...*
 
 Beyond everything, one thing which enters in consideration, is **the way the app/website is fit**, **the way he looks on mobile devices**. A sort of "fitness" of the app and how well it present itself...
 
-## The Viewport 
+## The Viewport
 
  ![the viewport meta tag](../assets/img/viewport-meta-tags.jpg)
 
@@ -29,9 +29,9 @@ Beyond everything, one thing which enters in consideration, is **the way the app
 For the "Width" setting, you start out with the width of the viewport being the device width.
 **Make sure the CSS is displaying for a 300px width** as it does to a large screen, that it really zoom out.
 
-The initial-scale set to 1, control if it zoom out or in...The Maximum and Minimum to prevent and control a zoom IN or OUT. 
+The initial-scale set to 1, control if it zoom out or in...The Maximum and Minimum to prevent and control a zoom (IN or OUT).
 
-The user-scalable is an ON/OFF setting to being able to zoom or not on the device(default yes)
+The **user-scalable** is an ON/OFF setting to being able to zoom or not on the device (default yes)
 
 > If we want to turn the user experience **to a native app, its necessary to set to OFF**
 > Maybe on certain area on the site but not on the navbar or another UI Component
@@ -40,13 +40,13 @@ The user-scalable is an ON/OFF setting to being able to zoom or not on the devic
 
  ![the full screen meta tag](../assets/img/full-screen-mode.jpg)
 
- A special case, needs to be turned it to "YES" and it will **be displayed like a mobile app** only if is launched from the home screen bookmark.
+ A special case, needs to be turned it to "YES" and it will **be displayed like a mobile app** only if its launched from the home screen bookmark.
 
- > The Full-screen value by default is "NO"
+ > The Full-screen value by default is "NO" (no need to add a tag)
 
  On that mode, there is also the possibility to put **the status bar black**.
 
- Then the **"Home Screen Title" button animation** (not max of 30 characters)
+ Then the **"Home Screen Title" button animation** (max of 30 characters)
 
 ## The Manifest.json
 
@@ -82,9 +82,10 @@ The Full-screen mode is more like a game UI instead of the "standalone" mode bei
 
 ## Add To Home Screen Lib
 
-[add-to-home-screen: the github repo...](https://github.com/cubiq/add-to-homescreen)
+[add-to-home-screen library: the github repo...](https://github.com/cubiq/add-to-homescreen)
 
 ![add-to-home-screen script library](../assets/img/add-to-home-screen-script.jpg)
 
-> NOTICE: that its a bad practice even it can be really great to captive the user adding your app to home
-> It could be handled in terms of frequency, and set it on the script
+> NOTICE: that its a bad practice even it can be really great to captive the user adding your app to home.
+> 
+> It could be handled in terms of frequency (each 10 days), and set that function to the script
