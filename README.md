@@ -42,7 +42,6 @@
 To help the SEO part of a developer job, we have to implement some method, find some solutions, sometimes some shortcuts or easy ways to complete tasks for what we are not specifically well experimented.
 We find out some solutions from our google research routine, always trying to learn the bests practices.
 
-
 ## Solution
 
 An helper repo on the topic with various tasks to do when building a project.
@@ -96,11 +95,11 @@ We focus on **the way the app/website is fit** as on accessibility, performance 
 - [manifest.json](mobile-optimization/manifest.json)
 - [Optimization course](course/MOBILEOPTIMIZATION.md)
 
-
 #### Links & Tools:
+
 - [favicon set generator](https://realfavicongenerator.net/)
 - [add-to-home-screen](https://github.com/cubiq/add-to-homescreen)
 - [iOS simulator](https://appetize.io/)
-- [lighthouse extension testing tool](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=fr) 
+- [lighthouse extension testing tool](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=fr)
 
 ## Accelerated Mobile Pages (AMP)

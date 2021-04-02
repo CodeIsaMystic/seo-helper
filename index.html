@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
+  <!--  META CHARSET  -->
   <meta charset="UTF-8">
   
   <!--  MOBILE OPTIMIZATION-->
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   
-  <meta name="msapplication-square70x70logo" content="/smalltile.png" />
-  <meta name="msapplication-square150x150logo" content="/mediumtile.png" />
-  <meta name="msapplication-wide310x150logo" content="/widetile.png" />
-  <meta name="msapplication-square310x310logo" content="/largetile.png" />
-
+  <!--  iOs MOBILE APP MODE  -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="">
+  
   <!--  BASICS META TAGS  -->
   <meta name="description" content="How to deploy our first app"/>
   <meta name="keywords" content="deployment, heroku, git, shell commands, seo"/>
@@ -21,7 +21,6 @@
   <meta property="og:type" content="website" />
   <meta property="og:title" content="TypeScript 3 Essentials| Mike.Works" />
   <meta property="og:url" content="https://mike-seo.herokuapp.com/course/ypescript-3-essentials-4e297cf" />
-
   <meta property="og:description" content="Adding strong typing to large JavaScript apps with TypeScript helps reduce\n  bugs, and keep developers on the performance and maintainable path. We'll look\n  at recent advancements in TypeScript as well. In this workshop, you'll learn\n  everything you need to know to be set up for success when using TypeScript to\n  build a modern web app." />
   <meta property="og:image" content="https://files.mike.works/courses/30/course_banner_30_fbshare.png?v=63726216920", />
   <meta property="og:image:width" content="1200" />
@@ -30,13 +29,18 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@FrontEndMasters" />
   <meta name="twitter:creator" content="@MichaelLNorth" />
-
   <meta name="twitter:image" content="https://files.mike.works/courses/30/course_banner_30_thumb2x.png?v=63726216920" />
   
-  <!--  AMP PROJECT  -->
-  <link rel="canonical" href="http://example.ampproject.org/article-metadata.html" />
 
-  <!--  MOBILE ICONS  -->
+
+   
+  <!--  MOBILE ICONS META  -->
+  <meta name="msapplication-square70x70logo" content="/smalltile.png" />
+  <meta name="msapplication-square150x150logo" content="/mediumtile.png" />
+  <meta name="msapplication-wide310x150logo" content="/widetile.png" />
+  <meta name="msapplication-square310x310logo" content="/largetile.png" />
+
+  <!--  MOBILE ICONS LINKS  -->
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
   <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
@@ -51,6 +55,13 @@
   <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
   <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
   <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+  
+  
+  <!-- THE WEB APP MANIFEST  -->
+  <link rel="manifest" href="/manifest.json">
+
+  <!--  AMP PROJECT  -->
+  <link rel="canonical" href="http://example.ampproject.org/article-metadata.html" />
 
   <!--  AMP PROJECT CDN-->
   <script async src="https://cdn.ampproject.org/v0.js">
@@ -58,10 +69,16 @@
 
   <!--  TITLE  -->
   <title>TypeScript 3 The Essentials</title>  
-  <!--<title>Course: Modern SEO</title>
-  <title>Deployment Instructions</title>-->  
+  <!--
+  <title>Course: Modern SEO</title>
+  <title>Deployment Instructions</title>
+  -->  
 
+  
+  <!-- INSIDE HEAD TAG  -->
 </head>
+
+<!--  INSIDE BODY TAG  -->
 <body>
 
   <style amp-boilerplate>
@@ -110,9 +127,12 @@
   
 
 
+  <!--  DOWN TO THE BODY  -->
    <script>
     addToHomescreen();
 
+    <!-- Maybe great to go in depth on the github repo 
+      to look at all the posssibilities -->
     addToHomescreen({
       // local storage name (no need to change)
       appID: 'modern.seo',		
@@ -123,7 +143,38 @@
       // you can't proceed if you don't add the app to the homescreen
       mandatory: false,			
     });
-    </script>
+  </script>
+
+<!--  BREADCRUMBS 
+  can have really more data -->
+  <script type="application/ld+json">
+    {
+      // attempting to conform in that schema context 
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https://mike-seo.herokuapp.com",
+          "name": "Courses"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@id": "https://mike-seo.herokuapp.com/course/ypescript-3-essentials-4e297cf",
+          "name": "TypeScript 3 The Essentials",
+          "image": "http://example.com/images/icon-title.png"
+        }
+      }]
+    }
+  </script>
+  <!-- 
+    Test on: "https://search.google.com/test/rich-results"
+    Notice: possibility to PREVIEW
+  -->
 
 </body>
 </html>
