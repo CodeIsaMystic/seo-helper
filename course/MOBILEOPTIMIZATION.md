@@ -39,7 +39,7 @@ The **user-scalable** is an ON/OFF setting to being able to zoom or not on the d
 > If we want to turn the user experience **to a native app, its necessary to set to OFF**
 > Maybe on certain area on the site but not on the navbar or another UI Component
 
-## The Full-screen Mode (iOS)
+## The Full-screen Mode -iOS
 
  ![the full screen meta tag](../assets/img/full-screen-mode.jpg)
 
@@ -51,7 +51,7 @@ The **user-scalable** is an ON/OFF setting to being able to zoom or not on the d
 
  Then the **"Home Screen title button animation"** (max of 30 characters)
 
-## The Manifest.json (Android)
+## The Manifest json -Android
 
 ![the manifest.json file](../assets/img/manifest-json-file.jpg)
 
@@ -103,7 +103,7 @@ The Full-screen mode is more like a game UI instead of the "standalone" mode bei
 > **NOTICE :**
 > You can **set your CSS styles on that purpose**, fixing the navbar, maybe at the bottom, removing the zoom with user-scalable, setting that zoom on specific area, adjusting the app styles...
 
-## The Ultimate Test: "Fit Or Fat" app
+## The Ultimate Test -Fit Or Fat-
 
 <br/>
 
