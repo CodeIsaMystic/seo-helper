@@ -7,9 +7,10 @@
   </p>
 </div>
 
-- [Google Search Structured Data](https://developers.google.com/search/docs/guides/intro-structured-data?hl=fr)
+- [Google Search Structured Data Documentation](https://developers.google.com/search/docs/guides/intro-structured-data?hl=fr)
 - [Schema.org Documentation](https://schema.org/docs/documents.html)
 - [Breadcrumbs tests rich results tool](https://search.google.com/test/rich-results)
+- [Google Guide Search-Gallery Features](https://developers.google.com/search/docs/guides/search-gallery)
 
 ## What Is This
 
