@@ -155,6 +155,8 @@
 
 <br/>
 
+![amp section icon](https://img.icons8.com/dusk/48/000000/mms.png)
+
 ## AM Project
 
 <br />
