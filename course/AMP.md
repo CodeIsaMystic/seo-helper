@@ -15,7 +15,7 @@ We have to play by some strict rules...
 
 ## How It Works
 
-![presentation list how it works](assets/../../assets/img/amp-how-it-works.jpg)
+![presentation list how it works](../assets/img/amp-how-it-works.jpg)
 
 We don't get put our own javascript on the critical path to rendering. **No component library**, to built our own AMP HTML. We can create iframe that have js inside of those but iframes are not on the critical path.
 We do get to build some rich components which are centrally maintained in the AMP Project.

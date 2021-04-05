@@ -36,6 +36,8 @@
   - [Add-to-home-screen](course/MOBILEOPTIMIZATION.md#Add-To-Home-Screen-Lib)
   - [Ultimate Test "Fit or Fat"](course/MOBILEOPTIMIZATION.md#The-Ultimate-test--Fit-Or-Fat-)
 - [Accelerated Mobile Pages (AMP) Project](course/AMP.md)
+  - [How it works](course/AMP.md/#how-it-works)
+  - [Get It Started](course/AMP.md/#get-it-started)
 
 ## Problem
 
@@ -61,6 +63,7 @@ We removed on the following list the Ad Campaign, and the AMP Project sections o
 6. **The Meta Data Work**  
 7. **The Script Structured Data**
 8. **The Mobile Optimization**
+9. **The Accelerated Mobile Pages Project**
 
 ## Social Media meta tags templates
 
@@ -103,3 +106,7 @@ We focus on **the way the app/website is fit** as on accessibility, performance 
 - [lighthouse extension testing tool](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=fr)
 
 ## Accelerated Mobile Pages (AMP)
+
+There are search results really fast loading, following strict rules.
+
+- [The AMP boiler plate github](https://github.com/ampproject/amphtml/blob/master/spec/amp-boilerplate.md)
