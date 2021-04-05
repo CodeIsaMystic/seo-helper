@@ -68,6 +68,7 @@
 > How to disavow some bad links on your website.
 > 
 > NOTICE: being careful and sure that the link is a kind of artificial otherwise it will affect your seo placement in the browser
+
 <br />
   
 ![meta data section icon](https://img.icons8.com/dusk/48/000000/data-recovery.png)
@@ -151,3 +152,13 @@
 - *Lighthouse Extension Testing Tool :* [https://chrome.google.com/webstore/detail/lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=fr)
 
 > The ultimate test and validator: seo, performance, accessibility, pwa.
+
+<br/>
+
+## AM Project
+
+<br />
+
+*The AMP boiler plate github :*[ https://github.com/ampproject/amphtml/blob/master/spec/amp-boilerplate.md](https://github.com/ampproject/amphtml/blob/master/spec/amp-boilerplate.md)
+
+> The github AMP boiler plate spec.
