@@ -162,5 +162,7 @@
 <br />
 
 *The AMP boiler plate github :*[ https://github.com/ampproject/amphtml/blob/master/spec/amp-boilerplate.md](https://github.com/ampproject/amphtml/blob/master/spec/amp-boilerplate.md)
-
 > The github AMP boiler plate spec.
+
+*The AMP Validator link :*[https://validator.ampproject.org/](https://validator.ampproject.org/)
+> The AMP Validator
